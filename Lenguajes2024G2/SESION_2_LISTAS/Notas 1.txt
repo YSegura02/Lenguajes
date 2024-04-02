@@ -1,0 +1,13 @@
+Para la programación, se inicia con el modelo. Ahí van los objetos
+
+prop -- TAB = se hace automaticamente la propiedad
+
+diferencia String y string
+	string permite almacenar datos alfanumericos
+	String para comparar
+
+@*Para comentarios*@
+
+Tiene la capacidad de ejecutar metodos que realicen una acción específica
+ 
+Controlador en blanco, agregar.

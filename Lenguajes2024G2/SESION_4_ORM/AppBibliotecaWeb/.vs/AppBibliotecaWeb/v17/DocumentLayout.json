@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Lenguajes2024G2\\SESION_4_ORM\\AppBibliotecaWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC055827-5E9A-4EF8-8460-646AC8471784}|AppBibliotecaWeb\\AppBibliotecaWeb.csproj|c:\\lenguajes2024g2\\sesion_4_orm\\appbibliotecaweb\\appbibliotecaweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC055827-5E9A-4EF8-8460-646AC8471784}|AppBibliotecaWeb\\AppBibliotecaWeb.csproj|solutionrelative:appbibliotecaweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC055827-5E9A-4EF8-8460-646AC8471784}|AppBibliotecaWeb\\AppBibliotecaWeb.csproj|c:\\lenguajes2024g2\\sesion_4_orm\\appbibliotecaweb\\appbibliotecaweb\\views\\libros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DC055827-5E9A-4EF8-8460-646AC8471784}|AppBibliotecaWeb\\AppBibliotecaWeb.csproj|solutionrelative:appbibliotecaweb\\views\\libros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2024G2\\SESION_4_ORM\\AppBibliotecaWeb\\AppBibliotecaWeb\\Views\\Libros\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppBibliotecaWeb\\Views\\Libros\\Index.cshtml",
+              "ToolTip": "C:\\Lenguajes2024G2\\SESION_4_ORM\\AppBibliotecaWeb\\AppBibliotecaWeb\\Views\\Libros\\Index.cshtml",
+              "RelativeToolTip": "AppBibliotecaWeb\\Views\\Libros\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T21:50:17.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Lenguajes2024G2\\SESION_4_ORM\\AppBibliotecaWeb\\AppBibliotecaWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppBibliotecaWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Lenguajes2024G2\\SESION_4_ORM\\AppBibliotecaWeb\\AppBibliotecaWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppBibliotecaWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T21:29:21.969Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

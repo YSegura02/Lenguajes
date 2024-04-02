@@ -1,0 +1,28 @@
+todos los metodos de action result, tienen la capacidad de devolver algo (un formulario).
+
+se hace de forma automática
+
+encima del métdo
+- click derecho
+-agregar vista
+- Razor
+-Plantilla --> la que convenga
+- Clase de modelo --> libro
+- ... --> views/Shared/Layout.cshtml
+
+
+--mt para dar espaciado
+
+--en la raíz del proyecto se debe pasar el Nullable que se encuentra en enable a disable, esto para que no acepte valores nulos en los espacios
+
+En el modelo ingresamos al objeto
+--Para la llave primaria
+[Key]
+[Required (ErrorMessage ="Ingresa el ISBN")]
+public int ISBN { get; set; }
+
+--Para los atributos
+[Required (ErrorMessage ="Debe ingresar el título")] para digitar error en caso de no poder ingresarlo
+[DataType(DataType.Text)] para permitir el tipo de datos ingresados
+[StringLength(150)] para digitar la cantidad de caracteres
+public string Titulo { get; set; } 

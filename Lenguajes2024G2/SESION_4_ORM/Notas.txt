@@ -1,0 +1,36 @@
+Para entrar a management studio
+--click derecho
+--Propiedades
+--Security
+Se cambia a SQL Server and windows autentication y se reinicia el servidor
+-----------------------------------------------------
+
+Debemos habillitar el super usuario
+--Security
+--logins
+--SA
+	--click derech
+	--propiedades
+	--status enable
+	--general contraseña Ucr2024
+-----------------------------------------------------
+Ingresamos al sistema pr medio de SQL Autentication
+--usuario: sa contraseña: Ucr2024
+
+
+-----------------------------------------------------
+En Visual creamos un proyecto nuevo
+importamos la clase modelo-libro
+
+click derecho en dependecias
+--administrar paquetes nu-get
+--Instalar Microsoft.EntityFrameworkCore.SQLServer 8.0.3
+--aplicar y aceptar
+--Instalar entity framework core tools
+--aplicar y aceptar
+
+-----------------------------------------------------
+Vamos a modelo y agregamos una nueva clase
+--DbContextBiblioteca.cs
+
+Ctr+.
